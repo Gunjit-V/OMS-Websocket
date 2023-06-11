@@ -5,8 +5,8 @@ from MarketDataSocketClient import MDSocket_io
 
 # MarketData API Credentials
 def MarketWebSocket(DataStore):
-    API_KEY = "aac912a92af436db47d713"
-    API_SECRET = "Ctbr472@pB"
+    API_KEY = ""
+    API_SECRET = "@pB"
     source = "WEBAPI"
 
     # Initialise
