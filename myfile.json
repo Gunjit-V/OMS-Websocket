@@ -1,0 +1,35 @@
+{
+      "26000": {
+            "MessageCode": 1501,
+            "ExchangeSegment": 1,
+            "ExchangeInstrumentID": 26000,
+            "LastTradedPrice": 18563.4,
+            "LastTradedQunatity": 0,
+            "TotalBuyQuantity": 0,
+            "TotalSellQuantity": 0,
+            "TotalTradedQuantity": 0,
+            "AverageTradedPrice": 18563.4,
+            "LastTradedTime": 1370804724,
+            "LastUpdateTime": 1370804724,
+            "PercentChange": -0.38,
+            "Open": 18655.9,
+            "High": 18676.65,
+            "Low": 18555.4,
+            "Close": 18563.4,
+            "TotalValueTraded": null,
+            "AskInfo": {
+                  "Size": 0,
+                  "Price": 0,
+                  "TotalOrders": 0,
+                  "BuyBackMarketMaker": 0
+            },
+            "BidInfo": {
+                  "Size": 0,
+                  "Price": 0,
+                  "TotalOrders": 0,
+                  "BuyBackMarketMaker": 0
+            },
+            "XMarketType": 1,
+            "BookType": 1
+      }
+}
